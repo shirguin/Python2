@@ -1,0 +1,18 @@
+2022-03-17 06:25:04,320 INFO     server_log_config.py Просто информация
+2022-03-17 06:25:04,320 DEBUG    server_log_config.py Отладочная информация
+2022-03-17 06:25:04,320 ERROR    server_log_config.py Сообщение об ощибке
+2022-03-17 06:25:04,320 CRITICAL server_log_config.py Критическая ошибка
+2022-03-17 06:25:29,347 DEBUG    server.py Создан объект parser
+2022-03-17 06:25:29,347 INFO     server.py Запущен server !Порт для подключений: 7777,Адрес с которого принимаются подключения: .Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-17 06:25:39,643 INFO     server.py Установлено соединение с client ('127.0.0.1', 50510)
+2022-03-17 06:25:39,643 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647487539.6437974, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:25:39,643 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647487539.6437974, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:25:39,643 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:25:39,643 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:25:39,643 INFO     server.py Соединение с клиентом ('127.0.0.1', 50510) закрыто.
+2022-03-17 06:26:03,076 INFO     server.py Установлено соединение с client ('127.0.0.1', 50511)
+2022-03-17 06:26:03,076 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647487563.0760386, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:26:03,076 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647487563.0760386, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:26:03,076 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:26:03,076 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:26:03,076 INFO     server.py Соединение с клиентом ('127.0.0.1', 50511) закрыто.

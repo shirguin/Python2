@@ -1,0 +1,18 @@
+2022-03-17 06:14:23,779 INFO     server.py Установлено соединение с client ('127.0.0.1', 50405)
+2022-03-17 06:14:23,779 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647486863.7799509, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:14:23,779 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647486863.7799509, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:14:23,779 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:14:23,779 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:14:23,779 INFO     server.py Соединение с клиентом ('127.0.0.1', 50405) закрыто.
+2022-03-17 06:15:02,811 INFO     server.py Установлено соединение с client ('127.0.0.1', 50421)
+2022-03-17 06:15:02,812 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647486902.811293, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:15:02,812 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647486902.811293, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:15:02,812 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:15:02,812 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:15:02,812 INFO     server.py Соединение с клиентом ('127.0.0.1', 50421) закрыто.
+2022-03-17 06:15:22,838 INFO     server.py Установлено соединение с client ('127.0.0.1', 50424)
+2022-03-17 06:15:22,838 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647486922.8387668, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:15:22,838 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647486922.8387668, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:15:22,838 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:15:22,838 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:15:22,838 INFO     server.py Соединение с клиентом ('127.0.0.1', 50424) закрыто.
