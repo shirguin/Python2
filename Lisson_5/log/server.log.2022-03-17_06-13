@@ -1,0 +1,32 @@
+2022-03-17 06:13:23,490 DEBUG    server.py Создан объект parser
+2022-03-17 06:13:23,490 INFO     server.py Запущен server !Порт для подключений: 7777,Адрес с которого принимаются подключения: .Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-17 06:13:29,079 INFO     server.py Установлено соединение с client ('127.0.0.1', 50386)
+2022-03-17 06:13:29,079 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647486809.0791419, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:13:29,079 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647486809.0791419, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:13:29,079 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:13:29,079 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:13:29,079 INFO     server.py Соединение с клиентом ('127.0.0.1', 50386) закрыто.
+2022-03-17 06:13:32,412 INFO     server.py Установлено соединение с client ('127.0.0.1', 50387)
+2022-03-17 06:13:32,412 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647486812.4121554, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:13:32,412 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647486812.4121554, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:13:32,412 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:13:32,412 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:13:32,412 INFO     server.py Соединение с клиентом ('127.0.0.1', 50387) закрыто.
+2022-03-17 06:13:37,994 INFO     server.py Установлено соединение с client ('127.0.0.1', 50388)
+2022-03-17 06:13:37,994 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647486817.9943788, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:13:37,994 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647486817.9943788, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:13:37,994 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:13:37,994 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:13:37,994 INFO     server.py Соединение с клиентом ('127.0.0.1', 50388) закрыто.
+2022-03-17 06:13:44,734 INFO     server.py Установлено соединение с client ('127.0.0.1', 50389)
+2022-03-17 06:13:44,734 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647486824.7342029, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:13:44,734 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647486824.7342029, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:13:44,734 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:13:44,734 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:13:44,734 INFO     server.py Соединение с клиентом ('127.0.0.1', 50389) закрыто.
+2022-03-17 06:14:02,822 INFO     server.py Установлено соединение с client ('127.0.0.1', 50399)
+2022-03-17 06:14:02,822 DEBUG    server.py Получено сообщение от client {'action': 'presence', 'time': 1647486842.8224714, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:14:02,822 DEBUG    server.py Разбор сообщения от клиента: {'action': 'presence', 'time': 1647486842.8224714, 'user': {'account_name': 'Guest'}}
+2022-03-17 06:14:02,822 DEBUG    server.py Сформирован ответ client {'response': 200}
+2022-03-17 06:14:02,822 INFO     server.py Отправлен ответ client {'response': 200}
+2022-03-17 06:14:02,822 INFO     server.py Соединение с клиентом ('127.0.0.1', 50399) закрыто.
