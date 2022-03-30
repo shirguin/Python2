@@ -1,0 +1,77 @@
+2022-03-30 20:07:44,460 DEBUG    decors_def.py      Была вызвана функция: <arg_parser()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,460 INFO     client.py          Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, режим работы: user3
+2022-03-30 20:07:44,460 DEBUG    client.py          Сформировано presence сообщение для пользователя user3
+2022-03-30 20:07:44,460 DEBUG    decors_def.py      Была вызвана функция: <create_presence()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,460 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,460 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,460 DEBUG    client.py          Разбор сообщения от сервера: {'response': 200}
+2022-03-30 20:07:44,460 DEBUG    decors_def.py      Была вызвана функция: <process_server_answer()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,460 INFO     client.py          Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-03-30 20:07:44,475 DEBUG    client.py          Запущены процессы
+2022-03-30 20:07:44,475 DEBUG    decors_def.py      Была вызвана функция: <arg_parser()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,475 INFO     client.py          Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, режим работы: user1
+2022-03-30 20:07:44,491 DEBUG    client.py          Сформировано presence сообщение для пользователя user1
+2022-03-30 20:07:44,491 DEBUG    decors_def.py      Была вызвана функция: <create_presence()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,491 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,491 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,491 DEBUG    client.py          Разбор сообщения от сервера: {'response': 200}
+2022-03-30 20:07:44,491 DEBUG    decors_def.py      Была вызвана функция: <process_server_answer()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,491 INFO     client.py          Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-03-30 20:07:44,491 DEBUG    client.py          Запущены процессы
+2022-03-30 20:07:44,507 DEBUG    decors_def.py      Была вызвана функция: <arg_parser()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,507 INFO     client.py          Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, режим работы: user2
+2022-03-30 20:07:44,507 DEBUG    client.py          Сформировано presence сообщение для пользователя user2
+2022-03-30 20:07:44,507 DEBUG    decors_def.py      Была вызвана функция: <create_presence()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-30 20:07:44,507 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-30 20:07:45,021 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-30 20:07:45,021 DEBUG    client.py          Разбор сообщения от сервера: {'response': 200}
+2022-03-30 20:07:45,021 DEBUG    decors_def.py      Была вызвана функция: <process_server_answer()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-30 20:07:45,021 INFO     client.py          Установлено соединение с сервером. Ответ сервера: 200 : OK
+2022-03-30 20:07:45,021 DEBUG    client.py          Запущены процессы
+2022-03-30 20:08:44,109 DEBUG    client.py          Сформирован словарь сообщения: {'action': 'message', 'sender': 'user1', 'to': 'user3', 'time': 1648660124.1099737, 'mess_text': 'Hi user3!'}
+2022-03-30 20:08:44,109 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <create_message()>.
+2022-03-30 20:08:44,109 INFO     client.py          Отправлено сообщение для пользователя user3
+2022-03-30 20:08:44,109 DEBUG    decors_def.py      Была вызвана функция: <create_message()>. Вызов из модуля: <__main__>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:08:44,250 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <message_from_server()>.
+2022-03-30 20:08:44,250 INFO     client.py          Получено сообщение от пользователя user1: Hi user3!
+2022-03-30 20:09:27,235 DEBUG    client.py          Сформирован словарь сообщения: {'action': 'message', 'sender': 'user3', 'to': 'user1', 'time': 1648660167.235907, 'mess_text': 'Hellow'}
+2022-03-30 20:09:27,235 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <create_message()>.
+2022-03-30 20:09:27,235 INFO     client.py          Отправлено сообщение для пользователя user1
+2022-03-30 20:09:27,251 DEBUG    decors_def.py      Была вызвана функция: <create_message()>. Вызов из модуля: <__main__>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:09:27,361 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <message_from_server()>.
+2022-03-30 20:09:27,361 INFO     client.py          Получено сообщение от пользователя user3: Hellow
+2022-03-30 20:10:03,216 DEBUG    client.py          Сформирован словарь сообщения: {'action': 'message', 'sender': 'user3', 'to': 'user2', 'time': 1648660203.2163723, 'mess_text': 'Привет user2!!!'}
+2022-03-30 20:10:03,216 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <create_message()>.
+2022-03-30 20:10:03,216 INFO     client.py          Отправлено сообщение для пользователя user2
+2022-03-30 20:10:03,216 DEBUG    decors_def.py      Была вызвана функция: <create_message()>. Вызов из модуля: <__main__>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:10:03,373 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <message_from_server()>.
+2022-03-30 20:10:03,373 INFO     client.py          Получено сообщение от пользователя user3: Привет user2!!!
+2022-03-30 20:10:37,153 DEBUG    client.py          Сформирован словарь сообщения: {'action': 'message', 'sender': 'user2', 'to': 'user3', 'time': 1648660237.153234, 'mess_text': 'Привет, привет.'}
+2022-03-30 20:10:37,153 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <create_message()>.
+2022-03-30 20:10:37,153 INFO     client.py          Отправлено сообщение для пользователя user3
+2022-03-30 20:10:37,153 DEBUG    decors_def.py      Была вызвана функция: <create_message()>. Вызов из модуля: <__main__>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:10:37,357 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <message_from_server()>.
+2022-03-30 20:10:37,357 INFO     client.py          Получено сообщение от пользователя user2: Привет, привет.
+2022-03-30 20:11:12,976 DEBUG    client.py          Сформирован словарь сообщения: {'action': 'message', 'sender': 'user2', 'to': 'user1', 'time': 1648660272.9766989, 'mess_text': '!!!!!'}
+2022-03-30 20:11:12,992 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <create_message()>.
+2022-03-30 20:11:12,992 INFO     client.py          Отправлено сообщение для пользователя user1
+2022-03-30 20:11:12,992 DEBUG    decors_def.py      Была вызвана функция: <create_message()>. Вызов из модуля: <__main__>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:11:13,383 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <message_from_server()>.
+2022-03-30 20:11:13,383 INFO     client.py          Получено сообщение от пользователя user2: !!!!!
+2022-03-30 20:12:07,738 DEBUG    decors_def.py      Была вызвана функция: <create_exit_message()>. Вызов из модуля: <__main__>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:12:07,738 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:12:07,738 INFO     client.py          Завершение работы по команде пользователя.
+2022-03-30 20:12:08,191 CRITICAL client.py          Потеряно соединение с сервером.
+2022-03-30 20:12:08,191 DEBUG    decors_def.py      Была вызвана функция: <message_from_server()>. Вызов из модуля: <__main__>. Вызов из функции: <run()>.
+2022-03-30 20:12:08,253 DEBUG    decors_def.py      Была вызвана функция: <user_interactive()>. Вызов из модуля: <__main__>. Вызов из функции: <run()>.
+2022-03-30 20:12:43,414 DEBUG    decors_def.py      Была вызвана функция: <create_exit_message()>. Вызов из модуля: <__main__>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:12:43,414 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:12:43,414 INFO     client.py          Завершение работы по команде пользователя.
+2022-03-30 20:12:43,695 CRITICAL client.py          Потеряно соединение с сервером.
+2022-03-30 20:12:43,695 DEBUG    decors_def.py      Была вызвана функция: <message_from_server()>. Вызов из модуля: <__main__>. Вызов из функции: <run()>.
+2022-03-30 20:12:50,704 DEBUG    decors_def.py      Была вызвана функция: <create_exit_message()>. Вызов из модуля: <__main__>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:12:50,720 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <user_interactive()>.
+2022-03-30 20:12:50,720 INFO     client.py          Завершение работы по команде пользователя.
+2022-03-30 20:12:50,767 CRITICAL client.py          Потеряно соединение с сервером.
+2022-03-30 20:12:50,767 DEBUG    decors_def.py      Была вызвана функция: <message_from_server()>. Вызов из модуля: <__main__>. Вызов из функции: <run()>.
+2022-03-30 20:12:51,235 DEBUG    decors_def.py      Была вызвана функция: <user_interactive()>. Вызов из модуля: <__main__>. Вызов из функции: <run()>.
