@@ -1,0 +1,87 @@
+2022-03-28 19:41:46,926 DEBUG    decors_def.py      Была вызвана функция: <arg_parser()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:41:46,926 INFO     server.py          Запущен server !Порт для подключений: 7777,Адрес с которого принимаются подключения: .Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-28 19:41:47,253 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49673)
+2022-03-28 19:41:47,284 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49674)
+2022-03-28 19:41:47,284 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:41:47,284 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648485707.253665, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:41:47,284 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:41:47,284 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:41:47,316 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49675)
+2022-03-28 19:41:47,316 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:41:47,316 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648485707.2848651, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:41:47,316 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:41:47,316 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:41:47,331 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49676)
+2022-03-28 19:41:47,331 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:41:47,331 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648485707.316065, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:41:47,331 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:41:47,331 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:41:47,440 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49677)
+2022-03-28 19:41:47,440 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:41:47,440 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648485707.331665, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:41:47,440 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:41:47,440 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:41:47,955 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:41:47,955 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648485707.4408653, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:41:47,955 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:41:47,955 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:42:30,684 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:30,684 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'message', 'time': 1648485750.372141, 'account_name': 'Guest', 'mess_text': 'Привет!'}
+2022-03-28 19:42:30,684 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:42:30,684 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:30,684 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:30,684 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:30,684 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:30,684 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:53,850 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:53,850 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'message', 'time': 1648485773.7409818, 'account_name': 'Guest', 'mess_text': 'Как дела?'}
+2022-03-28 19:42:53,850 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:42:53,850 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:53,850 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:53,850 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:53,850 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:42:53,850 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:43:09,294 INFO     server.py          Клиент ('127.0.0.1', 49676) отключился от сервера.
+2022-03-28 19:49:12,806 DEBUG    decors_def.py      Была вызвана функция: <arg_parser()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:49:12,806 INFO     server.py          Запущен server !Порт для подключений: 7777,Адрес с которого принимаются подключения: .Если адрес не указан, принимаются соединения с любых адресов.
+2022-03-28 19:49:13,102 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49715)
+2022-03-28 19:49:13,180 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49716)
+2022-03-28 19:49:13,180 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:13,180 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648486153.1024482, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:49:13,180 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:49:13,180 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:49:13,180 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:13,180 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648486153.164848, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:49:13,180 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:49:13,180 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:49:13,258 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49717)
+2022-03-28 19:49:13,258 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49718)
+2022-03-28 19:49:13,258 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:13,274 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648486153.2584484, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:49:13,274 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:49:13,274 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:49:13,336 DEBUG    server.py          Установлено соединение с клиентом: ('127.0.0.1', 49719)
+2022-03-28 19:49:13,336 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:13,336 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648486153.2584484, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:49:13,336 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:49:13,336 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:49:13,851 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:13,851 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'presence', 'time': 1648486153.3364484, 'user': {'account_name': 'Guest'}}
+2022-03-28 19:49:13,851 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <process_client_message()>.
+2022-03-28 19:49:13,851 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:49:41,135 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:41,135 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'message', 'time': 1648486181.0888972, 'account_name': 'Guest', 'mess_text': 'hi!'}
+2022-03-28 19:49:41,135 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:49:41,135 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:41,135 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:41,135 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:41,135 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:49:41,135 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:50:02,757 DEBUG    decors_def.py      Была вызвана функция: <get_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:50:02,757 DEBUG    server.py          Разбор сообщения от клиента: {'action': 'message', 'time': 1648486202.3049345, 'account_name': 'Guest', 'mess_text': 'hellow'}
+2022-03-28 19:50:02,757 DEBUG    decors_def.py      Была вызвана функция: <process_client_message()>. Вызов из модуля: <__main__>. Вызов из функции: <main()>.
+2022-03-28 19:50:02,757 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:50:02,757 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:50:02,757 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:50:02,757 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
+2022-03-28 19:50:02,757 DEBUG    decors_def.py      Была вызвана функция: <send_message()>. Вызов из модуля: <common.utils>. Вызов из функции: <main()>.
